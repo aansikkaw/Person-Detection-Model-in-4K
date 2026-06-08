@@ -44,5 +44,5 @@ Upon completion, the pipeline automatically generates `detection_report.html`, a
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/aansikkaw/4k-person-detection.git](https://github.com/aansikkaw/4k-person-detection.git)
-cd 4k-person-detection
+git clone [https://github.com/aansikkaw/Person-Detection-Model-in-4K.git](https://github.com/aansikkaw/4k-person-detection.git)
+cd Person-Detection-Model-in-4K
